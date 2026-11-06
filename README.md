@@ -140,3 +140,4 @@ This template demonstrates that interaction model. Reliable shared monitoring, r
 
 MIT License — Copyright (c) **2023 Georgia Rachel and contributors**. Use, modify, redistribute, and build on the template, including commercially, while retaining the license notice. See [LICENSE](./LICENSE).
 
+Personalized hub downloads include the license notice, so you can share your own copy while preserving the project’s attribution.
